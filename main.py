@@ -3,3 +3,4 @@ if __name__ == "__main__":
         phrases = mui_mui.readlines()
     for p in phrases :
         print(p)
+#test
